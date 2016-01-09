@@ -1,0 +1,9 @@
+{
+  "firebase": "ucdd-4830-004",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
