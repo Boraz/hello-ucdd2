@@ -44,13 +44,7 @@ In `public/index.html`
 ### Getting data into Firebase
 
 The data used in the example has the following structure in the JSON format:
-```javascript
-{
-  "bio" : {
-    "favorite_foods" : [ "green chilis", "burger" ]
-  }
-}
-```
+
 
 In your Firebase data browser, you want to be able to see something like this:
 
